@@ -1,1 +1,1 @@
-# eh-onboarding
+# Education Hub - Onboarding Module
